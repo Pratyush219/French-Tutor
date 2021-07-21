@@ -1,0 +1,8 @@
+black
+brown
+dusty yellow
+gray
+green
+mustard yellow
+red
+white

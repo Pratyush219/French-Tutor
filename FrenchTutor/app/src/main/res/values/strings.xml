@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">French Tutor</string>
+    <string name="numbers">Numbers</string>
+    <string name="family">Family members</string>
+    <string name="colours">Colours</string>
+    <string name="phrases">Phrases</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

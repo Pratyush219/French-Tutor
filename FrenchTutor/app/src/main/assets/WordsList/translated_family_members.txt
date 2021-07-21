@@ -1,0 +1,10 @@
+Père
+Mère
+Fils
+Fille
+Grand-père
+Grand-mère
+frère aîné
+sœur aînée
+frère cadet
+soeur cadette

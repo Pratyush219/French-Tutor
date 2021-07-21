@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numbers">Numbers</string>
+    <string name="family">Family members</string>
+    <string name="colours">Colours</string>
+    <string name="phrases">Phrases</string>
+</resources>
